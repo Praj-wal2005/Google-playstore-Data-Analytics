@@ -1,2 +1,3 @@
-# Google-playstore-Data-Analytics
-completely based on real time
+# Google-Play-Store-Analytics
+Null Class Project
+#pip install google-play-scraper pandas plotly nltk
